@@ -1,0 +1,13 @@
+.o-recommandedAccounts {
+}
+
+.o-recommandedAccounts__list {
+  margin-top: var(--spaceM);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  & > * {
+    margin: var(--spaceM);
+  }
+}
