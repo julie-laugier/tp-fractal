@@ -5,9 +5,8 @@
 @import '../style/00-protons/colors.scss';
 @import './01-atoms/navItem.scss';
 @import './01-atoms/logo.scss';
-
-@import './01-atoms/searchText.scss';
-@import './01-atoms/searchIcon.scss';
+@import './01-atoms/title.scss';
+@import './01-atoms/titleLevel2.scss';
 body {
     background-image: url("http://localhost:1234/assets/bkg.png");
     background-size: 100%;
@@ -17,4 +16,3 @@ body {
 
 @import './02-molecules/navMenu.scss';
 
-@import './02-molecules/searchBar.scss';
