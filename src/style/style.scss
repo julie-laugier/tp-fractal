@@ -6,11 +6,13 @@
 @import './01-atoms/navItem.scss';
 @import './01-atoms/logo.scss';
 @import './01-atoms/title.scss';
-@import './01-atoms/titleLevel2.scss';
+@import './01-atoms/sectionTitle.scss';
 @import './01-atoms/input.scss';
 @import './01-atoms/barIcon.scss';
 @import "./01-atoms/serchText.scss";
-
+@import './01-atoms/presentation.scss';
+@import './01-atoms/socialIcon.scss';
+@import './01-atoms/image.scss';
 body {
     background-image: url("http://localhost:1234/assets/bkg.png");
     background-size: 100%;
